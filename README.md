@@ -20,7 +20,7 @@ Operating System: Tested on macOS
 Setup Instructions
 
 Clone the Repository:
-git clone https://github.com/<your-username>/live-poll.git
+git clone https://github.com/InnocentOmenka/live-poll.git
 cd live-poll
 
 
